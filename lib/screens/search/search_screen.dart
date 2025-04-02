@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-import '../widgets/my_drawer.dart';
+import '../../widgets/my_drawer.dart';
 
 class SearchScreen extends StatelessWidget {
   @override

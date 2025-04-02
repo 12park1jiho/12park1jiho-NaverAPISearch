@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../screens/search_screen.dart'; // Import search_screen.dart here
+import '../screens/search/search_screen.dart'; // Import search_screen.dart here
 
 class MyDrawer extends StatelessWidget {
   @override
